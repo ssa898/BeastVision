@@ -14,13 +14,15 @@ int main()
 	Printf("La conexion con el servidor ha sido desarrollada");
 	Printf("La parte interna de la activacion de la deteccion de intrusos ha sido finalizada");
 
-	
+	Printf("La conexion con el servidor ha sido desarrollada");
+	Printf("La interfaz de conexion ha sido desarrollada");
 
 	//Rama de desactivacion de intrusos
 	Printf("El acceso al servidor ha sido desarrollado");
 
 	//Rama de grabaciones
 	Printf("El acceso a memoria ha sido desarrollado");
+	Printf("El acceso a memoria funciona");
 
 
     	return 0;
@@ -30,4 +32,9 @@ int main()
 
     	
 
+
+
+    	
+
+	
 
