@@ -15,6 +15,7 @@ int main()
 	//Rama de desactivacion de intrusos
 
 	//Rama de grabaciones
+	Printf("El acceso a memoria ha sido desarrollado");
 
 
     	return 0;
