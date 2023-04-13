@@ -13,6 +13,7 @@ int main()
 	Printf("El algoritmo funciona");
 
 	//Rama de desactivacion de intrusos
+	Printf("El acceso al servidor ha sido desarrollado");
 
 	//Rama de grabaciones
 
