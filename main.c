@@ -16,6 +16,7 @@ int main()
 
 	//Rama de grabaciones
 	Printf("El acceso a memoria ha sido desarrollado");
+	Printf("La gestion de memoria ha sido desarrollada");
 
 
     	return 0;
