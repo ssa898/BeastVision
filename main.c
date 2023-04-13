@@ -8,5 +8,7 @@ int main()
 	Printf("El algoritmo ha sido desarrollado");
 	Printf("Llamadas de emergencia funcionando");
     	Printf("La conexion con el servidor ha sido desarrollada");
+	Printf("La interfaz de conexion ha sido desarrollada");
+
 	return 0;
 }
