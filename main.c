@@ -6,5 +6,7 @@ int main()
 {
     	printf("Bienvenido a BeastVision");
 	Printf("El algoritmo ha sido desarrollado");
-    	return 0;
+	Printf("Llamadas de emergencia funcionando");
+    	
+	return 0;
 }
