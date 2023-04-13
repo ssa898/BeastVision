@@ -5,5 +5,6 @@
 int main()
 {
     	printf("Bienvenido a BeastVision");
+	Printf("El algoritmo ha sido desarrollado");
     	return 0;
 }
