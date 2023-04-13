@@ -6,12 +6,13 @@ int main()
     	printf("Bienvenido a BeastVision");
 
 	
-
 	//Rama de activacion de intrusos	
 	
 	Printf("El algoritmo ha sido desarrollado");
+	Printf("El algoritmo funciona");
 	Printf("Llamadas de emergencia funcionando");
 
+	
 
 	//Rama de desactivacion de intrusos
 
