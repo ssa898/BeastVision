@@ -12,6 +12,8 @@ int main()
 	Printf("El algoritmo funciona");
 	Printf("Llamadas de emergencia funcionando");
 	Printf("La conexion con el servidor ha sido desarrollada");
+	Printf("La parte interna de la activacion de la deteccion de intrusos ha sido finalizada");
+
 	
 
 	//Rama de desactivacion de intrusos
