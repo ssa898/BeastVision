@@ -7,25 +7,25 @@ int main()
 
 	
 	//Rama de activacion de intrusos	
-	Printf("El algoritmo ha sido desarrollado");
-	Printf("El algoritmo funciona");
-	Printf("Llamadas de emergencia funcionando");
-	Printf("La conexion con el servidor ha sido desarrollada");
-	Printf("La parte interna de la activacion de la deteccion de intrusos ha sido finalizada");
-	Printf("La conexion con el servidor ha sido desarrollada");
-	Printf("La interfaz de conexion ha sido desarrollada");
-	Printf("La activacion de la deteccion de intrusos ha sido finalizada");
+	printf("El algoritmo ha sido desarrollado");
+	printf("El algoritmo funciona");
+	printf("Llamadas de emergencia funcionando");
+	printf("La conexion con el servidor ha sido desarrollada");
+	printf("La parte interna de la activacion de la deteccion de intrusos ha sido finalizada");
+	printf("La conexion con el servidor ha sido desarrollada");
+	printf("La interfaz de conexion ha sido desarrollada");
+	printf("La activacion de la deteccion de intrusos ha sido finalizada");
 
 	//Rama de desactivacion de intrusos
-	Printf("El acceso al servidor ha sido desarrollado");
-	Printf("La desactivacion de la deteccion de intrusos ha sido finalizada");
+	printf("El acceso al servidor ha sido desarrollado");
+	printf("La desactivacion de la deteccion de intrusos ha sido finalizada");
 	
 	//Rama de grabaciones
-	Printf("El acceso a memoria ha sido desarrollado");
-	Printf("El acceso a memoria funciona");
-	Printf("La gestion de memoria ha sido desarrollada");
-	Printf("La interfaz ha sido desarrollada");
-	Printf("El sistema de grabación completo funciona");
+	printf("El acceso a memoria ha sido desarrollado");
+	printf("El acceso a memoria funciona");
+	printf("La gestion de memoria ha sido desarrollada");
+	printf("La interfaz ha sido desarrollada");
+	printf("El sistema de grabación completo funciona");
 	
     	return 0;
 }
