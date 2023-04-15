@@ -1,8 +1,4 @@
-#include <stdio.h>
-#include <stdlib.h>
-
-int main()
-{
+int main(){
     	printf("Bienvenido a BeastVision");
 
 	
@@ -29,14 +25,3 @@ int main()
 	
     	return 0;
 }
-
-
-
-    	
-
-
-
-    	
-
-	
-
