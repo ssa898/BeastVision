@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main(){
-    	printf("Bienvenido a BeastVision");
+	printf("Bienvenido a BeastVision");
 
 	
 	//Rama de activacion de intrusos	
@@ -12,7 +12,7 @@ int main(){
 	printf("La conexion con el servidor ha sido desarrollada");
 	printf("La interfaz de conexion ha sido desarrollada");
 	printf("La activacion de la deteccion de intrusos ha sido finalizada");
-
+	
 	//Rama de desactivacion de intrusos
 	printf("El acceso al servidor ha sido desarrollado");
 	printf("La desactivacion de la deteccion de intrusos ha sido finalizada");
@@ -24,5 +24,5 @@ int main(){
 	printf("La interfaz ha sido desarrollada");
 	printf("El sistema de grabación completo funciona");
 	
-    	return 0;
+	return 0;	
 }
